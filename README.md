@@ -1,15 +1,16 @@
 # Salut ! 👋
 ## A Propos De Moi
-### Je suis m'appelles Romain et je débute dans le développement du
+### Je m'appelle Romain et je débute dans le développement du
   * **Python** 🐍
   * **Java** 🍵
   * **JavaScript** ☕
   * **Html/Css** 📌
   * **Lua**✨
+  * **C++** 🟣
 
 
 ## Je suis sur Github Pour
-#### Vous partager mon aprentissage, mes essais de développements etc...
+#### Vous partager mon apprentissage, mes essais de développements etc...
 #### Mais aussi je fais des tools pour discord que je pourrais partager prochainement sur ce compte.
 
 
